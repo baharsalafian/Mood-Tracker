@@ -17,7 +17,7 @@ A simple internal tool for logging and visualizing emotional trends in a support
 ## 🚀 Demo
 
 <p align="center">
-  <img src="https://github.com/your-username/mood-tracker/blob/main/demo.gif" width="600" alt="Mood Tracker Demo">
+  <img src="demo.JPG" width="600" alt="Mood Tracker Demo">
 </p>
 
 ---
