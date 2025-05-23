@@ -50,7 +50,7 @@ A simple internal tool for logging and visualizing emotional trends in a support
 
 3.  **Set Up Google Sheets API**
 
-    To enable the app to read and write to a Google Sheet, follow these steps:
+    To enable the app to read and write to a Google Sheet, follow these steps (I presonally followed the steps in [this video](https://www.youtube.com/watch?v=4ssigWmExak&t=819s):
 
     1.  Go to [Google Cloud Console](https://console.cloud.google.com/).
     2.  Create a new project.
@@ -72,7 +72,7 @@ A simple internal tool for logging and visualizing emotional trends in a support
     SHEET_NAME = "Sheet1"
     ```
 
-    You can find your `SPREADSHEET_ID` in the URL of your Google Sheet:
+    You can find your `SPREADSHEET_ID` in the URL of your Google Sheet (the link to the Google sheet is [here](https://docs.google.com/spreadsheets/d/1SpI4BViAP7pQ8LgHPqjMtSzi7QjRVE-LETCPQMpmBRk/edit?gid=0#gid=0)):
 
     ```
     [https://docs.google.com/spreadsheets/d/](https://docs.google.com/spreadsheets/d/)<your-google-sheet-id>/edit
