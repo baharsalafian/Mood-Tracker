@@ -33,15 +33,17 @@ A simple internal tool for logging and visualizing emotional trends in a support
 
 ## 📦 Setup Instructions
 
-### 1. Clone the repository
+1.  **Clone the repository**
 
-```bash
-git clone https://github.com/your-username/mood-tracker.git
-cd mood-tracker
+    ```bash
+    git clone [https://github.com/your-username/mood-tracker.git](https://github.com/your-username/mood-tracker.git)
+    cd mood-tracker
+    ```
 
-### 2. Install Dependencies
+2.  **Install Dependencies**
 
-Make sure Python is installed on your machine. Then install the required packages using:
-```bash
-pip install -r requirements.txt
+    Make sure Python is installed on your machine. Then install the required packages using:
 
+    ```bash
+    pip install -r requirements.txt
+    ```
